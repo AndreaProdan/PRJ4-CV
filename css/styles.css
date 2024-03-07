@@ -6,15 +6,28 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
-	background-color: #f8f8fc;
+	font-family: Georgia, 'Times New Roman', Times, serif , "Open Sans", Arial, Helvetica, sans-serif, "Segoe UI", "Helvetica Neue", 'Times New Roman', Times, serif, sans-serif;
+	color: #6a6abf;
+	background-color: #ffd044;
+}
+
+h2, h3, h4, h6 {
+    font-family: 'Lato', sans-serif;
+}
+
+h1,h5 {
+	color: #1d0934;
+	font-family: 'Courier New', Courier, monospace;
+}
+/* Target text inside biography-details list items */
+.biography-details li {
+    font-family: 'arial', sans-serif;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #de9bff;
 }
 
 .resume-main {
@@ -36,7 +49,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #8223ee;
 }
 
 .biography-details li, .skill-list li {

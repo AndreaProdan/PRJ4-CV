@@ -25,3 +25,9 @@ In order to pass the individual assessment, you must modify the following elemen
 
 - Emojis: Twemoji by Twitter - https://twemoji.twitter.com/ - Licensed under Creative Commons Attribution 4.0 (CC-BY-4.0)
 - Social icons: FontAwesome - https://fontawesome.com/ - Licensed under Creative Commons Attribution 4.0 (CC-BY-4.0)
+
+
+
+CV github permalink:
+https://github.com/AndreaProdan/PRJ4-CV/blob/60433caf5aef1538bc55d26c73240046a6f46a67/index.html
+
